@@ -19,7 +19,7 @@ iteration: 0
 move2corner: false
 numframes2pick: 5
 pcutoff: 0.1
-project_path: /home/mackenzie/DEEPLABCUT/DeepLabCutbeta/examples/Reaching-Mackenzie-2018-08-30
+project_path: C:\Users\Craig\Documents\dlc\DeepLabCut\examples\Reaching-Mackenzie-2018-08-30
 resnet: 50
 scorer: Mackenzie
 snapshotindex: -1
